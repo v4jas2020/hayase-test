@@ -1,7 +1,7 @@
 [
   {
-    "name": "Test Nyaa",
+    "name": "Test",
     "version": "1.0.0",
-    "main": "https://raw.githubusercontent.com/Spaan/hayase-nyaa-extension/main/nyaasi.js"
+    "main": "https://raw.githubusercontent.com/v4jas2020/hayase-test/main/test.js"
   }
 ]
