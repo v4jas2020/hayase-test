@@ -1,0 +1,9 @@
+{
+  "extensions": [
+    {
+      "name": "Test Nyaa",
+      "version": "1.0.0",
+      "main": "https://raw.githubusercontent.com/Spaan/hayase-nyaa-extension/main/nyaasi.js"
+    }
+  ]
+}
